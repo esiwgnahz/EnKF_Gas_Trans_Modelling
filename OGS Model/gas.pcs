@@ -1,0 +1,10 @@
+GINA - Process
+#PROCESS
+  $PCS_TYPE
+    AIR_FLOW
+  $NUM_TYPE
+    NEW
+#PROCESS	;Ki
+  $PCS_TYPE
+    MASS_TRANSPORT
+#STOP

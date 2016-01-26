@@ -51,8 +51,6 @@ class post_calculation:
         content=np.array(content)
         para_true=content
   
-
-        
         parY_args=r'E:\EnKF_Gas_Modelling\parY.txt'
         with open(parY_args,'r') as f:
             content_parY=f.readlines()
